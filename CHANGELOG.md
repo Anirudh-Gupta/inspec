@@ -1,4 +1,4 @@
-# Change Log
+## Change Log
 <!-- usage documentation: http://expeditor-docs.es.chef.io/configuration/changelog/ -->
 <!-- latest_release -->
 <!-- latest_release -->
